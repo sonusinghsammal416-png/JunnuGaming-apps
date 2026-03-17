@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.junnugaming.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>JunnuGaming</name>
+    <description>Watch and Earn Gaming App</description>
+    <author email="admin@junnugaming.com">JunnuGaming</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="Orientation" value="portrait" />
+    <platform name="android">
+        <icon src="icon.png" />
+    </platform>
+</widget>
